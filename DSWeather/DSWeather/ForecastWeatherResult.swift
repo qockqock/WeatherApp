@@ -7,6 +7,7 @@
 
 import Foundation
 
+//테스트용 주석
 struct ForecastWeatherResult: Codable {
     let list: [ForecastWeather]
 }
