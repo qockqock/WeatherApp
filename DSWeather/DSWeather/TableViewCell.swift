@@ -32,6 +32,7 @@ final class TableViewCell: UITableViewCell {
         configureUI()
     }
     
+    // 이슈 확인용 주석
     // 인터페이스 빌더를 통해 셀을 초기화 할 때 사용하는 코드
     // 여기서는 fatalError를 통해서 명시적으로 인터페이스 빌더로 초기화 하지않음을 나타냄
     required init?(coder: NSCoder) {
