@@ -8,7 +8,7 @@
 import UIKit
 import SnapKit
 
-// 으악
+// 으악 으악 으악
 final class TableViewCell: UITableViewCell {
     
     static let id = "TableViewCell"
